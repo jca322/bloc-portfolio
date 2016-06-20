@@ -283,6 +283,17 @@ a:focus {
     -o-background-size: cover;
 }
 
+.tech li {
+    color: #fff;
+    text-shadow: 0 1px 0;
+    line-height: 32px;
+    display: inline;
+    border-radius: 4px;
+    font-size: 14px;
+    background: #42dca3;
+    padding: 4px 9px;
+}
+
 #about {
     background-color: #fafae8;
     color: #4b5052;
