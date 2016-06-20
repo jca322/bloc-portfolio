@@ -274,8 +274,8 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    color: #4b5052;
+/*    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;*/
     background-color: #fafae8;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -295,6 +295,12 @@ a:focus {
     background-size: 750px 473px;
 }
 */
+
+#contact {
+    background-color: #fafae8;
+    color: #4b5052;
+    width: 100%;
+}
 
 /*
 #map {
